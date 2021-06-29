@@ -1,0 +1,6 @@
+<html>
+<head> My file </head>
+<body>
+WELCOME
+</body>
+</html>
